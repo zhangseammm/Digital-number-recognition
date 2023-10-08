@@ -1,10 +1,7 @@
 # 写在最前面
 
-由于时间很短，并且之前没有怎么接触过图像识别，所以最后的效果并没有达到最好，还有很多的提升空间，比如图像的识别并旋转已经写到一半了，但是不知道中间有什么bug，最后没有实现效果，只剩下了一个写到了一半函数：
-`void Rotate(Mat srcImage, Mat destImage, double angle, Point2f center);`
-之后还可以继续改正，还有代码规范执行不是很好。
 
-**最后由于一来用的Visual Studio，加载的是Opencv4.0的库，但Linux上是Opencv3.0的库，函数和参数有一些不同，但是发现之后时间不够了，所以测试和测试结果是在windows环境实现的，之后改为opencv3.0的代码形式**
+**最后由于一来用的Visual Studio，加载的是Opencv4.0的库**
 
 ***
 ***
